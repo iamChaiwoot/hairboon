@@ -32,7 +32,7 @@ class _FacePageState extends State<FacePageopen> {
               width: 320,
               decoration: BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage("image/F2.jpg"),
+                  image: AssetImage("image/A3.jpg"),
                   fit: BoxFit.cover,
                 ),
                 borderRadius: BorderRadius.circular(30),

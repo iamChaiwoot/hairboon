@@ -18,41 +18,41 @@ class _FacePageState extends State<FacePageshow> {
             child: Column(children: <Widget>[
               Padding(
                 padding: EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
-                
               ),
-               Container(
-            height: 65,
-            width: 200,
-            padding: const EdgeInsets.fromLTRB(0, 0, 0, 0),
-            child: Column(children: <Widget>[
-              Padding(
-                padding: EdgeInsets.symmetric(vertical: 10.0, horizontal: 10.0),
-                child: Text(
-                  " ทรงผมมาแรง ",
-                  style: TextStyle(
-                    fontFamily: "Kanit",
-                    fontSize: 25.0,
-                    color: Colors.white,
-                    fontWeight: FontWeight.bold,
-                  ),
-                ),
-              ),
-            ]),
-            decoration: BoxDecoration(
-              boxShadow: [
-                BoxShadow(
-                  blurRadius: 0,
-                  spreadRadius: 0,
-                )
-              ],
-              color: Color(0xff054644),
-              borderRadius: BorderRadius.only(
-                topLeft: Radius.circular(30.0),
-                topRight: Radius.circular(30.0),
-                bottomLeft: Radius.circular(30.0),
-                bottomRight: Radius.circular(30.0),
-              ),
-            )),
+              Container(
+                  height: 65,
+                  width: 200,
+                  padding: const EdgeInsets.fromLTRB(0, 0, 0, 0),
+                  child: Column(children: <Widget>[
+                    Padding(
+                      padding: EdgeInsets.symmetric(
+                          vertical: 10.0, horizontal: 10.0),
+                      child: Text(
+                        " ทรงผมมาแรง ",
+                        style: TextStyle(
+                          fontFamily: "Kanit",
+                          fontSize: 25.0,
+                          color: Colors.white,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ),
+                  ]),
+                  decoration: BoxDecoration(
+                    boxShadow: [
+                      BoxShadow(
+                        blurRadius: 0,
+                        spreadRadius: 0,
+                      )
+                    ],
+                    color: Color(0xff054644),
+                    borderRadius: BorderRadius.only(
+                      topLeft: Radius.circular(30.0),
+                      topRight: Radius.circular(30.0),
+                      bottomLeft: Radius.circular(30.0),
+                      bottomRight: Radius.circular(30.0),
+                    ),
+                  )),
             ]),
             decoration: BoxDecoration(
               boxShadow: [

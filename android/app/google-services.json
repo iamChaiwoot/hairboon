@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708022900110",
+    "project_id": "pic-hairkuz",
+    "storage_bucket": "pic-hairkuz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708022900110:android:0ec650568e9b0ebef940df",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708022900110-9t1ueo0l7frglb8k76o33b6f8rqn9g9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsAknybkToDpHPRBF_Bdgh52_4tgN3s8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708022900110-9t1ueo0l7frglb8k76o33b6f8rqn9g9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
